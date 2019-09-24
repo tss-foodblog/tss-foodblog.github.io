@@ -3,6 +3,12 @@ layout: default
 ---
 
 <article class="post">
+  <head>
+  <meta property="fb:app_id"       content="2952785534738010" />
+  </head>
+
+  {% include facebook-init.html %}
+
   <h1>{{ page.title }}</h1>
 
   <div class="entry">
@@ -12,6 +18,15 @@ layout: default
   <div class="date">
     Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
-
+  
+  {% if page.fbcomments %}
+    <hr/>
+    <h4>Comments</h4>
+    <div class="fb-comments" data-href="https://tss-foodblog.github.io{{ page.url }}" data-width="720" data-numposts="4"></div>
+  {% endif %}
+  
   {% include disqus.html %}
+  
+  
+  
 </article>
