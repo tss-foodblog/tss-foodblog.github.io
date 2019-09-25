@@ -291,6 +291,15 @@ img[src*='#center'] {
     margin: auto;
 }
 
+figure {
+  display: block;
+  margin: auto;
+  text-align: center;
+  font-family: serif;
+  font-weight: lighter;
+  font-size: smaller;
+}
+
 footer {
   padding: 20px 0;
   text-align: center;
