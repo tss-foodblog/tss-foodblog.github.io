@@ -280,6 +280,17 @@ nav {
   background-color: $lightGray;
 }
 
+img[src*='#left'] {
+    float: left;
+}
+img[src*='#right'] {
+    float: right;
+}
+img[src*='#center'] {
+    display: block;
+    margin: auto;
+}
+
 footer {
   padding: 20px 0;
   text-align: center;
