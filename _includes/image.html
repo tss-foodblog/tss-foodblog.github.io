@@ -1,4 +1,4 @@
 <figure class="image">
-  <img src="{{ include.url }}" alt="{{ include.description | markdownify | remove: '<em>' | remove: '</em>' | remove: '<p>' | remove: '</p>' }}">
+  <img src="{{ include.url }}" alt="{{ include.shortdesc | markdownify | remove: '<em>' | remove: '</em>' | remove: '<p>' | remove: '</p>' }}">
   <figcaption>{{ include.description | markdownify | remove: '<p>' | remove: '</p>' }}</figcaption>
 </figure>
