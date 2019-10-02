@@ -8,7 +8,7 @@ categories: chicken
 The first dish I'm going to review is the simple yet profound 'chicken rice', or *cơm gà xối mỡ*, in particular. *Cơm gà* literally means 'chicken rice', while *xối mỡ* refers to the cooking method of pouring boiling oil over the chicken to make the skin crispy. This makes it completely different to more popular Chinese style chicken rices, such as the Hainainese chicken rice, which simply uses boiled chicken. There are other types of chicken rice as well, but that's for another time.
 
 ### *Cơm gà xối mỡ* from "Cơm Gà Xối Mỡ" in District&nbsp;1, Ho Chi Minh City
-The restaurant was located near the Japanese street in District 1 of Ho Chi Minh City, slightly hidden away in an alleyway. They only serve one dish---their chicken rice---and seemed to be a family owned business with a very friendly owner. I ordered the chicken rice, and it only took a few minutes for the dish to arrive.
+The restaurant was located near the Japanese street in District 1 of Ho Chi Minh City, slightly hidden away in an alleyway. They only serve one dish---their chicken rice---and seemed to be a family owned business with a very friendly owner. I'm not entirely sure if this is the actual name of the restaurant, as it is just the name of the dish, but that's what Google Maps told me anyway :stuck_out_tongue_closed_eyes: I ordered the chicken rice, and it only took a few minutes for the dish to arrive.
 
 <!---
 ![The chicken rice—Cơm gà xối mỡ]({{ site.baseurl }}/images/chicken_rice.jpg#center)
