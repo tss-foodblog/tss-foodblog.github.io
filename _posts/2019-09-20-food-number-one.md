@@ -13,7 +13,7 @@ The restaurant was located near the Japanese street in District 1 of Ho Chi Minh
 <!---
 ![The chicken rice—Cơm gà xối mỡ]({{ site.baseurl }}/images/chicken_rice.jpg#center)
 -->
-{% include image.html url="/images/chicken_rice.jpg" description="The chicken rice---*Cơm gà xối mỡ*, served at the restaurant. It may not seem like much, but don't judge a book by its cover!" %}
+{% include image.html url="/images/chicken_rice.jpg" shortdesc="The chicken rice---*Cơm gà xối mỡ*" description="The chicken rice---*Cơm gà xối mỡ*, served at the restaurant. It may not seem like much, but don't judge a book by its cover!" %}
 
 The first thing I remember is that the entire plate was emitting an extremely nice aroma, full of spices, cooked chicken and char. Resisting the urge to barge into the chicken, I decided to have a bit of the rice---which was the source of the charred aroma and was browned very nicely. Contrary to expectations, however, the rice itself did not have any saltiness attached to it---just a nice, charred flavour along with the slight taste of chicken broth. Then when you pour a few drops of soy sauce onto the rice, it adds the needed saltiness, while the flavour of the soy sauce mixes perfectly with the chicken and char of the rice.
 
